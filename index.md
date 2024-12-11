@@ -1,4 +1,4 @@
-# Hello World
+# Hello Welcome to My Portfolio
 
 This is my home page! My name is Ignacio Torres and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical engineering.
 
@@ -6,7 +6,7 @@ This is my home page! My name is Ignacio Torres and I am a student at [Cal State
 
 My GitHub page is http://github.com/IgnacioT1.
 
-### CPSC 120
+### My Favorite Labs for CPSC 120
 
 * Lab 1
 
